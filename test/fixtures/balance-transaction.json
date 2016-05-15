@@ -1,0 +1,19 @@
+{ "object": "list",
+  "data":
+   [ { "id": "txn_17wuS8KAnaEmydMryzNn6C80",
+       "object": "balance_transaction",
+       "amount": 500,
+       "available_on": 1460419200,
+       "created": 1459863764,
+       "currency": "usd",
+       "description": "asd",
+       "fee": 45,
+       "fee_details": "",
+       "net": 455,
+       "source": "ch_17wuS8KAnaEmydMrDCc1jAq0",
+       "sourced_transfers": "",
+       "status": "available",
+       "type": "charge" }],
+  "has_more": true,
+  "url": "/v1/balance/history"
+ }
